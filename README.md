@@ -77,7 +77,7 @@
         </div>
 
         <div class="streak">
-            🔥 <strong id="streakNumber">7</strong> day streak
+             <strong id="streakNumber">7</strong> day streak
         </div>
 
     </header>
@@ -118,7 +118,7 @@
         <div class="stats-grid">
 
             <div class="stat-card">
-                <span class="stat-icon">📚</span>
+                <span class="stat-icon"></span>
                 <p>Units Completed</p>
                 <h3 id="unitsCompleted">2 / 8</h3>
             </div>
@@ -130,13 +130,13 @@
             </div>
 
             <div class="stat-card">
-                <span class="stat-icon">⚡</span>
+                <span class="stat-icon"></span>
                 <p>Accuracy</p>
                 <h3 id="accuracy">—</h3>
             </div>
 
             <div class="stat-card">
-                <span class="stat-icon">⏱</span>
+                <span class="stat-icon"></span>
                 <p>Study Time</p>
                 <h3 id="studyTime">0 min</h3>
             </div>
